@@ -17,3 +17,6 @@ management.
 7. AUDIT_LOG (Log_ID (Primary Key), Vender_ID (Foreign Key), Inspector_ID (Foreign Key), Remarks)
 8. INSPECTOR (Inspector_ID (Primary Key), Name, Contact)
 9. TRANSACTION (TransactionID (Primary Key), Student_ID (Foreign Key), Data, Amount)
+
+# ER DIAGRAM
+![ERD](https://github.com/user-attachments/assets/2a6b91b4-ef83-4eb8-8215-718bf5fe3fb3)
